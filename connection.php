@@ -1,7 +1,7 @@
 <?php      
     $host = "localhost";  
     $user = "root";  
-    $password = '';  
+    $password = 'EzawJ7a?';  
     $db_name = "secureacc";  
       
     $con = mysqli_connect($host, $user, $password, $db_name);  
